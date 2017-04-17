@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7F0B70D2-4412-4DE4-820C-98DD6507752A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{79AEB47E-568A-43AF-AA9C-CEF96E2ECAEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{0712BAC6-2E36-40DB-9585-FAEBA15E71F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{8C7BAD0F-8643-4F75-AB70-286CB556222D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshLab.MJ2C.Domain", "FreshLab.MJ2C.Domain\FreshLab.MJ2C.Domain.csproj", "{3123F71B-A239-449B-BEB7-366E7B81594C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshLab.MJ2C.Domain.Tests", "FreshLab.MJ2C.Domain.Tests\FreshLab.MJ2C.Domain.Tests.csproj", "{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshLab.MJ2C.Services", "FreshLab.MJ2C.Services\FreshLab.MJ2C.Services.csproj", "{A4283DA2-E942-44F7-9455-4D6A193AB4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshLab.MJ2C.Services.Contracts", "FreshLab.MJ2C.Services.Contracts\FreshLab.MJ2C.Services.Contracts.csproj", "{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshLab.MJ2C.Services.Tests", "FreshLab.MJ2C.Services.Tests\FreshLab.MJ2C.Services.Tests.csproj", "{6D941EB7-E3CE-42E3-9B19-C307FAC29875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3123F71B-A239-449B-BEB7-366E7B81594C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3123F71B-A239-449B-BEB7-366E7B81594C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3123F71B-A239-449B-BEB7-366E7B81594C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3123F71B-A239-449B-BEB7-366E7B81594C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4283DA2-E942-44F7-9455-4D6A193AB4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4283DA2-E942-44F7-9455-4D6A193AB4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4283DA2-E942-44F7-9455-4D6A193AB4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4283DA2-E942-44F7-9455-4D6A193AB4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D941EB7-E3CE-42E3-9B19-C307FAC29875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D941EB7-E3CE-42E3-9B19-C307FAC29875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D941EB7-E3CE-42E3-9B19-C307FAC29875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D941EB7-E3CE-42E3-9B19-C307FAC29875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3123F71B-A239-449B-BEB7-366E7B81594C} = {79AEB47E-568A-43AF-AA9C-CEF96E2ECAEF}
+		{CF7E6F7F-5A71-4BB9-B764-5668B4238FFF} = {79AEB47E-568A-43AF-AA9C-CEF96E2ECAEF}
+		{A4283DA2-E942-44F7-9455-4D6A193AB4CC} = {7F0B70D2-4412-4DE4-820C-98DD6507752A}
+		{CA68C2EF-26E2-40B2-9879-69DC5DAD0BF0} = {7F0B70D2-4412-4DE4-820C-98DD6507752A}
+		{6D941EB7-E3CE-42E3-9B19-C307FAC29875} = {7F0B70D2-4412-4DE4-820C-98DD6507752A}
+	EndGlobalSection
+EndGlobal
