@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace FreshLab.MJ2C.Services.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class MJ2CServicesTests
     {
         [TestMethod]
         public void TestMethod1()

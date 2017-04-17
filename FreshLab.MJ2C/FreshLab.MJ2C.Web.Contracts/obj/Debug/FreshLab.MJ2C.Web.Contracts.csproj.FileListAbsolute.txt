@@ -2,3 +2,4 @@ F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Web.Contracts\bin\Debug\FreshLa
 F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Web.Contracts\bin\Debug\FreshLab.MJ2C.Web.Contracts.pdb
 F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Web.Contracts\obj\Debug\FreshLab.MJ2C.Web.Contracts.dll
 F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Web.Contracts\obj\Debug\FreshLab.MJ2C.Web.Contracts.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Web.Contracts\obj\Debug\FreshLab.MJ2C.Web.Contracts.csprojResolveAssemblyReference.cache

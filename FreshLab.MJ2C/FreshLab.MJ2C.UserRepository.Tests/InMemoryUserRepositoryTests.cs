@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FluentAssertions;
 using System;
+
 using FreshLab.MJ2C.Domain;
 
 namespace FreshLab.MJ2C.UserRepository.Tests
