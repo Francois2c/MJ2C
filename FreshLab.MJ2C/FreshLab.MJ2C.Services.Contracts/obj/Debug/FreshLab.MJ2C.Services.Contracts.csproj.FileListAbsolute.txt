@@ -1,0 +1,5 @@
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Contracts\bin\Debug\FreshLab.MJ2C.Services.Contracts.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Contracts\bin\Debug\FreshLab.MJ2C.Services.Contracts.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Contracts\obj\Debug\FreshLab.MJ2C.Services.Contracts.csprojResolveAssemblyReference.cache
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Contracts\obj\Debug\FreshLab.MJ2C.Services.Contracts.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Contracts\obj\Debug\FreshLab.MJ2C.Services.Contracts.pdb

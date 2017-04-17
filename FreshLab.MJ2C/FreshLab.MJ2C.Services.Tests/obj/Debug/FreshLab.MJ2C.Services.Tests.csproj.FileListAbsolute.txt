@@ -1,0 +1,12 @@
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FreshLab.MJ2C.Services.Tests.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FreshLab.MJ2C.Services.Tests.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\obj\Debug\FreshLab.MJ2C.Services.Tests.csprojResolveAssemblyReference.cache
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\obj\Debug\FreshLab.MJ2C.Services.Tests.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\obj\Debug\FreshLab.MJ2C.Services.Tests.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.Core.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.xml
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.Core.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.Services.Tests\bin\Debug\FluentAssertions.Core.xml

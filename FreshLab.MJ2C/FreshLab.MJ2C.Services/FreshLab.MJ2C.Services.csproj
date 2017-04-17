@@ -40,7 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MJ2CServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FreshLab.MJ2C.Services.Contracts\FreshLab.MJ2C.Services.Contracts.csproj">
+      <Project>{ca68c2ef-26e2-40b2-9879-69dc5dad0bf0}</Project>
+      <Name>FreshLab.MJ2C.Services.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

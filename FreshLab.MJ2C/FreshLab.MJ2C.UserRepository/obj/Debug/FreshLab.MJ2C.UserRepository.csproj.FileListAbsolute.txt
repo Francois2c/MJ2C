@@ -1,0 +1,9 @@
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\obj\Debug\FreshLab.MJ2C.UserRepository.csprojResolveAssemblyReference.cache
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.UserRepository.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.UserRepository.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.Domain.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.Services.Contracts.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.Domain.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\bin\Debug\FreshLab.MJ2C.Services.Contracts.pdb
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\obj\Debug\FreshLab.MJ2C.UserRepository.dll
+F:\GitHub\Repos\MJ2C\FreshLab.MJ2C\FreshLab.MJ2C.UserRepository\obj\Debug\FreshLab.MJ2C.UserRepository.pdb
